@@ -81,7 +81,7 @@ def star_pattern(n):
         for j in range(i):
             stars += "* "
 
-        st.write(stars)
+        st.text(stars)
 
 
 # ==============================
